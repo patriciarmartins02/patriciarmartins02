@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there ! 👋
+
+My name is Patrícia. I´m a student pursing a BS degree in Computer Science in ISCTE - University Institute of Lisbon!
 
 <!--
 **patriciarmartins02/patriciarmartins02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
